@@ -21,6 +21,7 @@
   "homepage": "https://github.com/thinkful-ei-orka/moviedex-api-jono-carlo#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "helmet": "^3.22.0",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
