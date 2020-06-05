@@ -13,6 +13,9 @@
     "url": "git+https://github.com/thinkful-ei-orka/moviedex-api-jono-carlo.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "10.11.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
